@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = krestendesmedt@outlook.dk
-	name = kresten desmedt krestendesmedt@outlook.dk
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = Kresten Desmedt
